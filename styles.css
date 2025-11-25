@@ -2,7 +2,8 @@
 	background-color: black;
 	color: white;
 	border-radius: 5px;
-	border-style: none;
+	/* border-style: none; */
+	border: none;
 }
 
 #btn:hover{
